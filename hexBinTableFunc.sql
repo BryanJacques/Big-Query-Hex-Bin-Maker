@@ -4,7 +4,8 @@ with arrayTable as (
 /*
 Created by: Bryan Jacques
 
-Description: Creates a table function that returns tessellated hexagon geographies and their centroids to aid in geospatial analysis
+Description: Creates a table function that returns tessellated hexagon geographies and their centroids to aid in geospatial analysis. 
+  Replace "project" and "dataset" with appropriate values from your own project.
 
 Inputs:
   p_gridStartPoint    // geopoint geography of bottom left start point of hexagon grid
